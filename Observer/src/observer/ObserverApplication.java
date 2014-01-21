@@ -6,6 +6,6 @@ public class ObserverApplication {
 		// TODO Auto-generated method stub
 
 	}
-
+ 
 }  
   
